@@ -12,6 +12,8 @@ Este projeto é um sistema de gerenciamento de tickets de suporte, desenvolvido 
 
 ## Tecnologias Utilizadas
 
+- Laravel
+- Filament
 - PHP
 - MySQL
 - XAMPP
